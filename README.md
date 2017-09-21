@@ -6,8 +6,8 @@ Writing bullets is prefixed by <br>
 *bullet2
 <br>
 Code is printed within single quote. Italics with a single *star*
-'print("This is a line of code")'
+`print("This is a line of code")`
 <br>
 Code block is printed
-"If x = 10 then print( "x is equal to 10") else print( "x is not equal to 10")"
+``If x = 10 then print( "x is equal to 10") else print( "x is not equal to 10")``
 <br>
